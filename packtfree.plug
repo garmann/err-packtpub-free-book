@@ -1,0 +1,14 @@
+[Core]
+module = packtfree
+name = packtfree
+
+[Documentation]
+description = displays the current free book from packtpub
+
+[Python]
+version = 3
+
+[Errbot]
+min = 4.2.2
+max = 4.2.2
+
