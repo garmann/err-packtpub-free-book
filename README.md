@@ -3,7 +3,8 @@
 this is a plugin for errbot which returns information about the current free book from packtpub
 
 ## install
-see requirements.txt
+- setup & use virtualenv
+- pip install -r requirements.txt
 
 ## usage
 - see !help
